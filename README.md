@@ -1,5 +1,5 @@
-# Hi I'm Alexander Welcome on my GitHub Page ! 
+# Hello, are you happy ?
 
-I do Typescript... Well, I'm trying to.
+I do programming... Well, I'm trying to.
 
-PS: Learning is important.
+No real clue how any of it works tbh...
